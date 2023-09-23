@@ -2,7 +2,7 @@
 title: Molafish
 SEOTitle: Molafish Blog
 header-img: img/post-bg-desk.jpg
-email: ***    
+#email: ***      
 description: "Weakness and ignorance are not barriers to survival, but arrogance is."
 keyword: "Bioinfomatics,Algorithm,Multiomics,Oncology,Immunology"
 url: "http://molafish777.github.io"          # your host, for absolute URL
@@ -70,12 +70,12 @@ kramdown:
 # 统计
 
 # Analytics settings
-# Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# Baidu Analytics      
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'G-FGV4RR5E07'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'G-FGV4RR5E07'            # Format: UA-xxxxxx-xx
+#ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
