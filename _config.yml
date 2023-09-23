@@ -2,12 +2,10 @@
 title: Molafish
 SEOTitle: Molafish Blog
 header-img: img/post-bg-desk.jpg
-# email: ***      
 description: "Weakness and ignorance are not barriers to survival, but arrogance is."
 keyword: "Bioinfomatics,Algorithm,Multiomics,Oncology,Immunology"
 url: "http://molafish777.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-# github_repo: "https://github.com/Molafish777/molafish777.github.io.git" # you code repository
 
 
 # Sidebar settings
