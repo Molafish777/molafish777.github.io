@@ -1,7 +1,8 @@
 # Site settings
 title: Molafish
 SEOTitle: Molafish Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.jpg  
+email: molafish777@gamil.com
 description: "Weakness and ignorance are not barriers to survival, but arrogance is."
 keyword: "Bioinfomatics,Algorithm,Multiomics,Oncology,Immunology"
 url: "http://molafish777.github.io"          # your host, for absolute URL
