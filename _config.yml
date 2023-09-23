@@ -7,7 +7,8 @@ description: "Weakness and ignorance are not barriers to survival, but arrogance
 keyword: "Bioinfomatics,Algorithm,Multiomics,Oncology,Immunology"
 url: "http://molafish777.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Molafish777/molafish777.github.io.git" # you code repository
+#github_repo: "https://github.com/Molafish777/molafish777.github.io.git" # you code repository
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -17,9 +18,9 @@ sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in b
 
 
 # SNS settings
-RSS: false
+RSS: false  
 github_username:    molafish777
-jianshu_username:   acbcb02b9720
+#jianshu_username:   acbcb02b9720
 #twitter_username:   qiubaiying
 
 
