@@ -1,8 +1,8 @@
 # Site settings
 title: Molafish Blog
-SEOTitle: Molafish Blog  
-header-img: img/post-bg-rwd.jpg  
-email: molafish777@gamil.com
+SEOTitle: Molafish Blog
+header-img: img/post-bg-rwd.jpg
+email: Blank
 description: "Weakness and ignorance are not barriers to survival, but arrogance is."
 keyword: "Bioinfomatics, Algorithm, Multiomics, Oncology, Immunology, Life"
 url: "http://molafish777.github.io"          # your host, for absolute URL
@@ -17,7 +17,7 @@ sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in b
 
 
 # SNS settings
-RSS: false  
+RSS: false
 github_username:    molafish777
 jianshu_username:   acbcb02b9720
 
@@ -55,7 +55,7 @@ kramdown:
 # 统计
 
 # Analytics settings
-# Baidu Analytics      
+# Baidu Analytics
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
